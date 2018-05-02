@@ -5,8 +5,8 @@
   <link> hello</link>
   </head>
   <body>
-  <h2>new</h2>
-  <h2>old</h2>
+  <h2>newcz</h2>
+  <h2>oldzxc</h2>
     <h1>Hello, World! Life is great!</h1>
   </body>
 </html>
